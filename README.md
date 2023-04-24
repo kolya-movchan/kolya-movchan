@@ -9,5 +9,5 @@ As for my personality, I am an easy-going person who can find common ground with
 Skills: REACT / JS / HTML / CSS / SAAS / TypeScript / Git / Jira / Scrum
 
 
-[<img src='https://www.vhv.rs/dpng/d/5-53359_linkedin-logo-png-transparent-png.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/klmovchan/)
+[<img src='https://assets.stickpng.com/images/6297a2f1e01809629f113598.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/klmovchan/)
 
