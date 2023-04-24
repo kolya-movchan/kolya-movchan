@@ -18,7 +18,7 @@ As for my personality, I am an easy-going person who can find common ground with
 🚀 80+ GitHub assignments approved by the mentors <br>
 
 ## Kavyar Project
-In April 2023 I finished an admin and user-oriented project Kavyar https://kavyar.herokuapp.com/ based on REST API in a team with 2 Java Developers and QA with the help of Jira and Scrum technologies. <br>
+In April 2023 I finished an admin and user-oriented project Kavyar https://kavyar.herokuapp.com/ based on REST API in a team with 2 Java Developers and QA with the help of Jira and Scrum technologies. If you are eager to know more about the functionality implemented on the admin side you are more than welcome to see the video attached below <br>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=4UxdJwPujQk&ab_channel=MykolaMovchan" target="_blank"><img src="http://img.youtube.com/vi/4UxdJwPujQk/0.jpg" 
 alt="Kavyar Youtube Video" width="240" height="180" border="10" /></a>
