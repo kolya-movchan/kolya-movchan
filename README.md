@@ -18,7 +18,7 @@ As for my personality, I am an easy-going person who can find common ground with
 🚀 80+ GitHub assignments approved by the mentors <br>
 
 ## Social
-[<img src='https://icon-library.com/images/official-linkedin-icon-png/official-linkedin-icon-png-16.jpg' alt='linkedin' height='40'>](https://www.linkedin.com/in/klmovchan/)
-
+[<img src='https://assets.stickpng.com/images/6297a2f1e01809629f113598.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/klmovchan/)
+ <br>
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png' alt='telegram' height='40'>](https://t.me/klmovchan)
 
