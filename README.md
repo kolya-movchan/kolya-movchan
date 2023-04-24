@@ -10,7 +10,7 @@ Skills: REACT / JS / HTML / CSS / SAAS / TypeScript / Git / Jira / Scrum
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kolya-movchan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/klmovchan/)  
+[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://www.vhv.rs/dpng/d/5-53359_linkedin-logo-png-transparent-png.png)' alt='linkedin' height='40'>](https://www.linkedin.com/in/klmovchan/)  
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kolya-movchan&show_icons=true)
