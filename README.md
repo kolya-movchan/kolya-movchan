@@ -18,5 +18,7 @@ As for my personality, I am an easy-going person who can find common ground with
 🚀 80+ GitHub assignments approved by the mentors
 
 ## Statistics
+![Mykola's GitHub stats](https://github-readme-stats.vercel.app/api?username=kolya-movchan&show_icons=true)
+
 [<img src='https://icon-library.com/images/official-linkedin-icon-png/official-linkedin-icon-png-16.jpg' alt='linkedin' height='40'>](https://www.linkedin.com/in/klmovchan/)
 
