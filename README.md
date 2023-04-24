@@ -12,10 +12,10 @@ As for my personality, I am an easy-going person who can find common ground with
 :england:	ENG - Upper-Intermediate <br>
 
 ## Achievements
-🚀 2000+ hrs of live coding
-🚀 200+ JS built-in tasks completed
-🚀 50+ React built-in tasks completed
-🚀 80+ GitHub assignments approved by the mentors
+🚀 2000+ hrs of live coding <br>
+🚀 200+ JS built-in tasks completed <br>
+🚀 50+ React built-in tasks completed <br>
+🚀 80+ GitHub assignments approved by the mentors <br>
 
 ## Social
 [<img src='https://icon-library.com/images/official-linkedin-icon-png/official-linkedin-icon-png-16.jpg' alt='linkedin' height='40'>](https://www.linkedin.com/in/klmovchan/)
