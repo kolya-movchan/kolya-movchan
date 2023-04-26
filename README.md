@@ -9,7 +9,7 @@ As for my personality, I am an easy-going person who can find common ground with
 :atom_symbol: REACT <br>
 :computer: JS / HTML / CSS / SAAS / TypeScript <br>
 :handshake: Git / Jira / Scrum <br>
-:england:	ENG - Upper-Intermediate <br>
+:england:	ENG - C1 <br>
 
 ## Achievements
 🚀 2000+ hrs of live coding <br>
