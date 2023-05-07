@@ -19,7 +19,7 @@ As for my personality, I am an easy-going person who can find common ground with
 
 ## Kavyar Project
 
-In April 2023 I with a team finished an admin and user-oriented project Kav'yar developed with React and Typescript, based on REST API in a team with 2 Java Developers and QA with the help of Jira and Scrum technologies. If you are eager to know more about the functionality implemented on the admin side you are more than welcome to see the video attached below.<br>
+In April 2023 I with a team finished an admin and user-oriented project Kav'yar developed with React and Typescript, based on REST API in a team with 2 Java Developers and QA with the help of Jira and Scrum technologies. If you are eager to know more about the functionality implemented you are more than welcome to see the video attached below.<br>
 
 ###  🔗 User
 [DEMO](https://kolya-movchan.github.io/kavyar/)
