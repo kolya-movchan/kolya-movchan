@@ -1,7 +1,7 @@
 # Hi there, I am Kolya(Mykola) Movchan 👋
 
 ## Intro
-I am from Kyiv, Ukraine and I do front-end development projects, I really enjoy everything about this process and adore the framework React. Also, I am thrilled to solve some algorithmic tasks of JavaScript and learn new technologies.
+I do front-end development projects, I really enjoy everything about this process and adore the framework React. Also, I am thrilled to solve some algorithmic tasks of JavaScript and learn new technologies.
 
 As for my personality, I am an easy-going person who can find common ground with different people, I adore it when someone feels comfortable. I do not require micromanagement and prefer the autonomy to work creatively and efficiently toward achieving the team's objectives. As an example, I always received only positive peer reviews from my colleagues. For the whole period of working remotely (including blackout), I managed to cover all the required technical needs by myself to keep being productive and online all the time.
 
