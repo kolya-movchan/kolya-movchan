@@ -7,7 +7,7 @@ As for my personality, I am an easy-going person who can find common ground with
 
 ## Skills
 :atom_symbol: REACT, Redux, RTK <br>
-:computer: JS / HTML / CSS / SAAS / TypeScript <br>
+:computer: JS / HTML / CSS / Sass / TypeScript <br>
 :handshake: Git / Jira / Scrum <br>
 :england:	ENG - C1 (Advanced) <br>
 
