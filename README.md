@@ -4,7 +4,7 @@
 I do front-end development projects, I really enjoy everything about this process and adore the framework React. Also, I am thrilled to solve some algorithmic tasks of JavaScript and learn new technologies.
 
 ## Skills
-:atom_symbol: REACT, Redux, RTK, Vue(basics), Angular(basics) <br>
+:atom_symbol: React, React Hooks, Redux(RTK), Vue(basics), Angular(basics) <br>
 :computer: JS / HTML / CSS / Sass / TypeScript <br>
 :handshake: Git / Jira / Scrum <br>
 :england:	ENG - C1 (Advanced) <br>
