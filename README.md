@@ -7,7 +7,7 @@ I do front-end development projects, I really enjoy everything about this proces
 :atom_symbol: React, React Hooks, Redux(RTK), Vue(basics), Angular(basics) <br>
 :computer: JS / HTML / CSS / Sass / TypeScript <br>
 :handshake: Git / Jira / Scrum <br>
-:england:	ENG - C1 (Advanced) <br>
+:england:	ENG - Advanced <br>
 
 ## Social
 [<img src='https://o.remove.bg/downloads/4a97b8d1-e5ac-42b7-99ad-5b451a672518/640px-LinkedIn_logo_initials-removebg-preview.png' alt='linkedin' height='40' style='margin-right: 10px;'>](https://tinyurl.com/gh-linkedIn-nav)
