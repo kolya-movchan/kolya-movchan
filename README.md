@@ -21,7 +21,7 @@ As for my personality, I am an easy-going person who can find common ground with
 ## Social
 <div style="display: flex; gap: 25px;">
   <a href="https://www.linkedin.com/in/klmovchan/" target="_blank" style="text-decoration: none;">
-    <img src="https://blog.waalaxy.com/wp-content/uploads/2021/01/LinkedIn-Symbole.png" alt="linkedin" height="40">
+    <img src="https://o.remove.bg/downloads/4a97b8d1-e5ac-42b7-99ad-5b451a672518/640px-LinkedIn_logo_initials-removebg-preview.png" alt="linkedin" height="40">
   </a>
   <a href="https://t.me/klmovchan" target="_blank" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="telegram" height="40">
