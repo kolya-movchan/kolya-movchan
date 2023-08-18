@@ -19,17 +19,9 @@ As for my personality, I am an easy-going person who can find common ground with
 
 
 ## Social
-<div style="display: flex; gap: 25px;">
-  <a href="https://www.linkedin.com/in/klmovchan/" target="_blank" style="text-decoration: none;">
-    <img src="https://o.remove.bg/downloads/4a97b8d1-e5ac-42b7-99ad-5b451a672518/640px-LinkedIn_logo_initials-removebg-preview.png" alt="linkedin" height="40">
-  </a>
-  <a href="https://t.me/klmovchan" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="telegram" height="40">
-  </a>
-  <a href="https://tinyurl.com/inst-klmovchan" target="_blank" style="text-decoration: none;">
-    <img src="https://o.remove.bg/downloads/df2c01bd-bf1d-4113-aa5e-04355080ed93/png-transparent-logo-computer-icons-instagram-logo-instagram-logo-miscellaneous-text-trademark-removebg-preview.png" alt="instagram" height="40">
-  </a>
-</div>
+[<img src='https://o.remove.bg/downloads/4a97b8d1-e5ac-42b7-99ad-5b451a672518/640px-LinkedIn_logo_initials-removebg-preview.png' alt='linkedin' height='40' style='margin-right: 10px;'>](https://www.linkedin.com/in/klmovchan/)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png' alt='telegram' height='40' style='margin-right: 30px;'>](https://t.me/klmovchan)
+[<img src='https://o.remove.bg/downloads/df2c01bd-bf1d-4113-aa5e-04355080ed93/png-transparent-logo-computer-icons-instagram-logo-instagram-logo-miscellaneous-text-trademark-removebg-preview.png' alt='instagram' height='40' style='margin-right: 30px;'>](https://tinyurl.com/inst-klmovchan)
 
 
 
