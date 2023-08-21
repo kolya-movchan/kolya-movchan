@@ -10,8 +10,8 @@ I do front-end development projects, I really enjoy everything about this proces
 :england:	ENG - Advanced <br>
 
 ## Social
-[<img src='https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png' alt='linkedin' height='40' style='margin-right: 10px;'>](https://tinyurl.com/gh-linkedIn-nav)
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png' alt='telegram' height='40' style='margin-right: 30px;'>](https://tinyurl.com/gh-tg-nav)
+[<img src='https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png' alt='linkedin' height='40' style='margin-right: 30px;'>](https://tinyurl.com/gh-linkedIn-nav)
+[<img src='https://static.vecteezy.com/system/resources/previews/018/930/479/non_2x/telegram-logo-telegram-icon-transparent-free-png.png' alt='telegram' height='40' style='margin-right: 30px;'>](https://tinyurl.com/gh-tg-nav)
 [<img src='https://download.logo.wine/logo/Instagram/Instagram-Logo.wine.png' alt='instagram' height='40' style='margin-right: 30px;'>](https://tinyurl.com/gh-instgrm-nav)
 
 
