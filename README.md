@@ -1,6 +1,5 @@
 # Hi there, I am Kolya Movchan 👋
 
-## Intro
 I do front-end development projects, I really enjoy everything about this process and adore the framework React. Also, I am thrilled to solve some algorithmic tasks of JavaScript and learn new technologies.
 
 ## Skills
