@@ -10,4 +10,3 @@ I do front-end development projects, I really enjoy everything about this proces
 
 ## Social
 [<img src='https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png' alt='linkedin' height='60' width='60' style='margin-right: 30px;'>](https://tinyurl.com/gh-linkedIn-nav)
-[<img src='https://static.vecteezy.com/system/resources/previews/018/930/479/non_2x/telegram-logo-telegram-icon-transparent-free-png.png' alt='telegram' height='60' width='60' style='margin-right: 30px;'>](https://tinyurl.com/gh-tg-nav)
