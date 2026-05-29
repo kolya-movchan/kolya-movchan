@@ -4,7 +4,7 @@ I design autonomous AI pipelines that remove manual work from entire teams - not
 
 ## What I build
 
-🤖 Multi-agent AI workflows (n8n · LangChain · CrewAI · OpenAI Agents SDK)  
+🤖 Multi-agent AI workflows (n8n · CrewAI · OpenAI Agents SDK)  
 🔍 RAG pipelines & vector search (Pinecone · Qdrant · OpenAI Vector Store)  
 ☁️ Serverless AI backends (AWS Lambda · Bedrock · DynamoDB · S3)  
 ⚡ Content & SEO automation at publishing scale  
